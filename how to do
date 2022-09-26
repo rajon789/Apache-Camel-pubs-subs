@@ -1,0 +1,2 @@
+run this command to run activemq locally on docker.
+docker run -d -p 61616:61616 -p 8161:8161 rmohr/activemq
